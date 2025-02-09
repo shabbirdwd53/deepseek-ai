@@ -1,2 +1,2 @@
-# deekseek-ai
-deekseek-ai
+# deepseek-ai
+deepseek-ai
